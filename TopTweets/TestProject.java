@@ -8,10 +8,10 @@ import java.util.List;
  * Created by Gabriel on 4/16/2016.
  */
 public class TestProject {
-    private static final String CONSUMER_KEY = "2nxig9dVaZ91MIFQIZenRlSs1";
-    private static final String CONSUMER_SECRET = "PrFp0fvkrgEfYqlC77fNLWeFi8Pnp4y20ffAyYgnRFJYl2UR5n";
-    private static final String ACCESS_TOKEN = "2285648102-3Cfku8erEsTGcEmnzV7Dm6QkFCKwYRh8H5aBLNE";
-    private static final String ACCESS_TOKEN_SECRET = "8smEFpagIs45ajckdKfI4khuNfeBmtvFiLqFX9KEJAlZn";
+    private static final String CONSUMER_KEY = "*********************************";
+    private static final String CONSUMER_SECRET = "*********************************";
+    private static final String ACCESS_TOKEN = "*********************************";
+    private static final String ACCESS_TOKEN_SECRET = "*********************************";
 
     public static void main(String[] args) throws IOException, TwitterException{
         ConfigurationBuilder cb = new ConfigurationBuilder();
